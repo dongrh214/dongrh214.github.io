@@ -3,8 +3,7 @@ layout: post
 title: "js 两个字符串数据相加"
 subtitle: 'JavaScript 两个字符串数据相加'
 author: "Dongrh"
-header-style: text
-header-mask: 0.3
+header-img: "img/banner/4.jpeg"
 catalog: true
 tags:
   - JavaScript基础

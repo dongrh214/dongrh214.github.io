@@ -3,8 +3,7 @@ layout: post
 title: "前端性能采集"
 subtitle: 'JavaScript perfromace前端性能采集'
 author: "Dongrh"
-header-style: text
-header-mask: 0.3
+header-img: "img/banner/8.jpg"
 catalog: true
 tags:
   - JavaScript基础

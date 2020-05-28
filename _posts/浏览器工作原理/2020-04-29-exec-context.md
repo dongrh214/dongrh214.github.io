@@ -4,8 +4,6 @@ title: "JavaScript执行上下文"
 subtitle: 'JavaScript编译及执行原理'
 author: "Dongrh"
 header-img: "img/home-bg.jpg"
-header-mask: 0.3
-header-style: text
 catalog: true
 tags:
   -

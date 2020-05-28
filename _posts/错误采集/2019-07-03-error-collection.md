@@ -3,8 +3,7 @@ layout: post
 title: "前端错误采集"
 subtitle: 'JavaScript 浏览器端错误采集'
 author: "Dongrh"
-header-style: text
-header-mask: 0.3
+header-img: "img/banner/2.jpeg"
 catalog: true
 tags:
   - JavaScript基础
