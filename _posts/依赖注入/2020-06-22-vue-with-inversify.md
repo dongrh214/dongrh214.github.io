@@ -19,7 +19,7 @@ tags:
 本文将基于最新@vue/cli脚手架创建一个新的vue应用，并将在项目中使用invserify及其主要扩展插件。项目代码[demo]
 
 ### 基础项目搭建
-1、使用最新脚手架搭建vue项目，首先全局安装vue脚手架工具(已安装忽略)，本文github demo基于 @vue/cli 4.4.4
+1、使用最新脚手架搭建vue项目，首先全局安装vue脚手架工具(已安装忽略)，本文demo[vue-inversify-demo](https://github.com/dongrh214/vue-inversify-demo/)基于 @vue/cli 4.4.4
 ```
 npm install -g @vue/cli
 # OR
